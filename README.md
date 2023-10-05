@@ -1,6 +1,7 @@
 ------
 
 Run: php art calculate-commissions
+
 Tests: vendor/bin/pest
 
 ------
