@@ -1,4 +1,7 @@
-------
+Requirements:
+- PHP 8.1
+
+Install: composer install
 
 Run: php art calculate-commissions
 
