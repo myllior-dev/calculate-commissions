@@ -1,3 +1,10 @@
+------
+
+Run: php art calculate-commissions
+Tests: vendor/bin/pest
+
+------
+
 <a href="https://supportukrainenow.org/"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg" width="100%"></a>
 
 ------
